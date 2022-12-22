@@ -1,4 +1,4 @@
-## Welcome 👋
+## Hey, welcome to my profile 👋
 - 👩‍🎓 computer science student at State University of Londrina (UEL)
 
 - 🖥 working as an intern at [Anexs Tecnologia](https://anexs.com.br/)
