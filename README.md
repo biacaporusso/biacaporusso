@@ -1,7 +1,5 @@
 ## Hey, welcome to my profile 👋
 - 👩‍🎓 2nd year computer science student at State University of Londrina (UEL)
-- 🖥 working as a development intern at [Anexs Tecnologia](https://anexs.com.br/)
-- ✍ currently learning C# and Java. Already had experience with C and Python
 
 ---
 
