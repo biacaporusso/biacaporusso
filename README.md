@@ -1,5 +1,7 @@
 ## Olá, meu nome é Beatriz!
 
+📚 4º ano de Ciência da Computação pela Universidade Estadual de Londrina - UEL
+
 ### ⚙️ GitHub Analytics
 
 <table>
@@ -51,9 +53,3 @@
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/biacaporusso/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
